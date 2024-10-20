@@ -1,0 +1,12 @@
+#myDigitalClock{
+text-align: center;
+    border-radius: 1000px ;
+    background-color: aqua;
+box-shadow: 5px 5px 5px 5px;
+
+}
+body {
+border-style: double;
+border-color:yellow;
+    background-color: darkseagreen;
+}
